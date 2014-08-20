@@ -1,0 +1,5 @@
+/Users/robdelbianco/Downloads/DREngine/Classes/WaterCoolerTile.m: In function '-[WaterCoolerTile OkToPlacePowerUp]':
+/Users/robdelbianco/Downloads/DREngine/Classes/WaterCoolerTile.m:56: warning: 'Tile' may not respond to '-OkToPlacePowerUp'
+/Users/robdelbianco/Downloads/DREngine/Classes/WaterCoolerTile.m:56: warning: (Messages without a matching method signature
+/Users/robdelbianco/Downloads/DREngine/Classes/WaterCoolerTile.m:56: warning: will be assumed to return 'id' and accept
+/Users/robdelbianco/Downloads/DREngine/Classes/WaterCoolerTile.m:56: warning: '...' as arguments.)

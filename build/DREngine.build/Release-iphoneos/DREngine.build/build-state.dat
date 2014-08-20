@@ -1,0 +1,2303 @@
+TDREngine
+v7
+r0
+t297661342.830749
+cCheck dependencies
+cCpResource build/Release-iphoneos/DREngine.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Info.plist DREngine-Info.plist
+cCompileXIB /Users/robdelbianco/Downloads/DREngine/MainWindow.xib
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MainMenu_Btn.png MainMenu_Btn.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_Btn.png Arcade_Btn.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_Btn.png Puzzle_Btn.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/SplitBall_Btn.png SplitBall_Btn.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Loser_Btn.png Loser_Btn.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Winner_Btn.png Winner_Btn.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/PlayAgain_Btn.png PlayAgain_Btn.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_Btn.png Time_Btn.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/earth.png earth.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg1Ball.png Reg1Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg2Ball.png Reg2Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg3Ball.png Reg3Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg4Ball.png Reg4Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg5Ball.png Reg5Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg6Ball.png Reg6Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg7Ball.png Reg7Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg8Ball.png Reg8Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg9Ball.png Reg9Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg10Ball.png Reg10Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg11Ball.png Reg11Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg12Ball.png Reg12Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg13Ball.png Reg13Ball.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/RubberBall.png RubberBall.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/WoodGrain.png WoodGrain.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_HUD.png Puzzle_HUD.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_HUD.png Arcade_HUD.png
+cCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_HUD.png Time_HUD.png
+cProcessPCH /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch.gch DREngine_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-adgqbkxzsuvebafeuocjodapienk/DREngine_Prefix.pch.gch DREngine_Prefix.pch normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/main.o /Users/robdelbianco/Downloads/DREngine/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngineAppDelegate.o /Users/robdelbianco/Downloads/DREngine/Classes/DREngineAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/EAGLView.o /Users/robdelbianco/Downloads/DREngine/Classes/EAGLView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MyOpenALSupport.o /Users/robdelbianco/Downloads/DREngine/Classes/MyOpenALSupport.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRAL.o /Users/robdelbianco/Downloads/DREngine/Classes/DRAL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTexture.o /Users/robdelbianco/Downloads/DREngine/Classes/DRTexture.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTimerManager.o /Users/robdelbianco/Downloads/DREngine/Classes/DRTimerManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMath.o /Users/robdelbianco/Downloads/DREngine/Classes/DRMath.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderManager.o /Users/robdelbianco/Downloads/DREngine/Classes/DRRenderManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRInputManager.o /Users/robdelbianco/Downloads/DREngine/Classes/DRInputManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngine.o /Users/robdelbianco/Downloads/DREngine/Classes/DREngine.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRApplication.o /Users/robdelbianco/Downloads/DREngine/Classes/DRApplication.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFrame.o /Users/robdelbianco/Downloads/DREngine/Classes/DRFrame.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRVector.o /Users/robdelbianco/Downloads/DREngine/Classes/DRVector.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMatrix.o /Users/robdelbianco/Downloads/DREngine/Classes/DRMatrix.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMesh.o /Users/robdelbianco/Downloads/DREngine/Classes/DRMesh.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRDataHolder.o /Users/robdelbianco/Downloads/DREngine/Classes/DRDataHolder.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListNode.o /Users/robdelbianco/Downloads/DREngine/Classes/DRListNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRList.o /Users/robdelbianco/Downloads/DREngine/Classes/DRList.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFloatDataHolder.o /Users/robdelbianco/Downloads/DREngine/Classes/DRFloatDataHolder.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRModel.o /Users/robdelbianco/Downloads/DREngine/Classes/DRModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListIterator.o /Users/robdelbianco/Downloads/DREngine/Classes/DRListIterator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRResourceManager.o /Users/robdelbianco/Downloads/DREngine/Classes/DRResourceManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjHorns.o /Users/robdelbianco/Downloads/DREngine/ObjHorns.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRObject.o /Users/robdelbianco/Downloads/DREngine/Classes/DRObject.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjAhCool.o /Users/robdelbianco/Downloads/DREngine/ObjAhCool.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrame.o /Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrame.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrameAnimation.o /Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrameAnimation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRStoryBoard.o /Users/robdelbianco/Downloads/DREngine/Classes/DRStoryBoard.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/StoryBoardAhCoolWalk.o /Users/robdelbianco/Downloads/DREngine/StoryBoardAhCoolWalk.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GOAhCool.o /Users/robdelbianco/Downloads/DREngine/GOAhCool.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderEffect.o /Users/robdelbianco/Downloads/DREngine/Classes/DRRenderEffect.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Ball.o /Users/robdelbianco/Downloads/DREngine/Classes/Ball.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GameManager.o /Users/robdelbianco/Downloads/DREngine/Classes/GameManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MenuManager.o /Users/robdelbianco/Downloads/DREngine/Classes/MenuManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Button.o /Users/robdelbianco/Downloads/DREngine/Classes/Button.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine normal armv6
+cGenerateDSYMFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app.dSYM /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine
+cProcessProductPackaging "/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/EC05D470-E78C-44B1-B0DA-38376EDDB7D6.mobileprovision" /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision
+cTouch /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine.xcent
+cCodeSign /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B2B554B000000000001AD10
+t1261131083
+s109840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B2B554700000000000000EB
+t1261131079
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B2B538900000000002E0B30
+t1261130633
+s3017520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioFile.h
+c000000004B2B5328000000000000EF58
+t1261130536
+s61272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004B2B53280000000000000A22
+t1261130536
+s2594
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004B2B53280000000000005430
+t1261130536
+s21552
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AudioUnit.framework/Headers/AudioUnit.h
+c000000004B2B531A000000000000041D
+t1261130522
+s1053
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004B2B53B400000000000064FD
+t1261130676
+s25853
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004B2B53B40000000000001F45
+t1261130676
+s8005
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004B2B53BA000000000003AB60
+t1261130682
+s240480
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004B2B5672000000000000094F
+t1261131378
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004B2B56720000000000000A61
+t1261131378
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004B2B56720000000000009369
+t1261131378
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004B2B56720000000000002A42
+t1261131378
+s10818
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B2B567E000000000003C1A0
+t1261131390
+s246176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B5700000000000000007D
+t1261131520
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B57EF00000000001C27F0
+t1261131759
+s1845232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/math.h
+c000000004B2B3EDF00000000000004F1
+t1261125343
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/string.h
+c000000004B2B3F100000000000001731
+t1261125392
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BA82B910000000000000110
+t1269312401
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B9F26F6000000000001AD60
+t1268721398
+s109920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B9F26F300000000000000EB
+t1268721395
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B9F260C00000000002DE3E0
+t1268721164
+s3007456
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioFile.h
+c000000004B9F25DA000000000000EF58
+t1268721114
+s61272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004B9F25DA0000000000000A22
+t1268721114
+s2594
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004B9F25DA0000000000005430
+t1268721114
+s21552
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioUnit.framework/Headers/AudioUnit.h
+c000000004B9F25C9000000000000041D
+t1268721097
+s1053
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004B9F263300000000000064FD
+t1268721203
+s25853
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004B9F26330000000000001F45
+t1268721203
+s8005
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004B9F263C000000000003ABD0
+t1268721212
+s240592
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004B9F289E000000000000094F
+t1268721822
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004B9F289E0000000000000A61
+t1268721822
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004B9F289E0000000000009369
+t1268721822
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004B9F289E0000000000002A42
+t1268721822
+s10818
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B9F28AB000000000003C2B0
+t1268721835
+s246448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B9F28EE000000000000007D
+t1268721902
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F2A1500000000002215A0
+t1268722197
+s2233760
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/math.h
+c000000004B9F12D800000000000004F1
+t1268716248
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/string.h
+c000000004B9F135D0000000000001731
+t1268716381
+s5937
+
+N/Users/robdelbianco/Downloads/DREngine/AnnaBall1.png
+c000000004BA95DD0000000000002C420
+t1269390800
+s181280
+
+N/Users/robdelbianco/Downloads/DREngine/AnnaBall2.png
+c000000004BA960CA00000000000066B0
+t1269391562
+s26288
+
+N/Users/robdelbianco/Downloads/DREngine/Arcade_Btn.png
+c000000004BAACFD60000000000000862
+t1269485526
+s2146
+
+N/Users/robdelbianco/Downloads/DREngine/Arcade_HUD.png
+c000000004BAAD1F40000000000000690
+t1269486068
+s1680
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/Ball.h
+c000000004C0DB4830000000000000AE3
+t1275966595
+s2787
+i<Foundation/Foundation.h>
+i"DRTexture.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/Ball.m
+c000000004C0DBC18000000000000176E
+t1275968536
+s5998
+i"Ball.h"
+i"DREngine.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/Button.h
+c000000004BBEA5730000000000000418
+t1270785395
+s1048
+i<Foundation/Foundation.h>
+i"DRTexture.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/Button.m
+c000000004BBEA5AE0000000000000832
+t1270785454
+s2098
+i"Button.h"
+i"DREngine.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRAL.h
+c000000004AF21A2100000000000003C2
+t1257380385
+s962
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox/AudioFile.h>
+i<AudioUnit/AudioUnit.h>
+i<AVFoundation/AVFoundation.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRAL.m
+c000000004AF21A730000000000000ED5
+t1257380467
+s3797
+i"DRAL.h"
+i"MyOpenALSupport.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRApplication.h
+c000000004BBEAD920000000000000359
+t1270787474
+s857
+i<Foundation/Foundation.h>
+i"DREngine.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRApplication.m
+c000000004C0DADDD0000000000001723
+t1275964893
+s5923
+i"DRApplication.h"
+i"GameManager.h"
+i"MenuManager.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRDataHolder.h
+c000000004AB83680000000000000011B
+t1253586560
+s283
+i<Foundation/Foundation.h>
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRDataHolder.m
+c000000004AB8368900000000000000DB
+t1253586569
+s219
+i"DRDataHolder.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DREngine.h
+c000000004ACD4A020000000000000242
+t1254967810
+s578
+i<Foundation/Foundation.h>
+i"DRMath.h"
+i"DRFrame.h"
+i"DRTexture.h"
+i"DRRenderManager.h"
+i"DRInputManager.h"
+i"DRAL.h"
+i"DRTimerManager.h"
+i"DRResourceManager.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DREngine.m
+c000000004ACD4A23000000000000057F
+t1254967843
+s1407
+i"DREngine.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DREngineAppDelegate.h
+c000000004AB06BE700000000000001AC
+t1253075943
+s428
+i<UIKit/UIKit.h>
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DREngineAppDelegate.m
+c000000004AB06BE900000000000002D7
+t1253075945
+s727
+i"DREngineAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRFloatDataHolder.h
+c000000004AB98A410000000000000126
+t1253673537
+s294
+i<Foundation/Foundation.h>
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRFloatDataHolder.m
+c000000004AB98A3B00000000000000EA
+t1253673531
+s234
+i"DRFloatDataHolder.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRFrame.h
+c000000004AEE50400000000000000E05
+t1257132096
+s3589
+i<Foundation/Foundation.h>
+i"DRMath.h"
+i"DRMesh.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRFrame.m
+c000000004AEFA76000000000000042D3
+t1257219936
+s17107
+i"DRFrame.h"
+i"DRMath.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRInputManager.h
+c000000004AB06CAB0000000000000632
+t1253076139
+s1586
+i<Foundation/Foundation.h>
+i"DRMath.h"
+i"DRFrame.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRInputManager.m
+c000000004AB06CC80000000000000E85
+t1253076168
+s3717
+i"DRInputManager.h"
+i"DRMath.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrame.h
+c000000004AEA3536000000000000027F
+t1256863030
+s639
+i<Foundation/Foundation.h>
+i"DRVector.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrame.m
+c000000004AEA354100000000000002BF
+t1256863041
+s703
+i"DRKeyFrame.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrameAnimation.h
+c000000004AEF8972000000000000033F
+t1257212274
+s831
+i<Foundation/Foundation.h>
+i"DRKeyFrame.h"
+i"DRFrame.h"
+i"DRList.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrameAnimation.m
+c000000004AEFA0980000000000000C7A
+t1257218200
+s3194
+i"DRKeyFrameAnimation.h"
+i"DRListIterator.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRList.h
+c000000004AEDE89400000000000002A8
+t1257105556
+s680
+i<Foundation/Foundation.h>
+i"DRListNode.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRList.m
+c000000004AEDE8B9000000000000097C
+t1257105593
+s2428
+i"DRList.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRListIterator.h
+c000000004AD5381A0000000000000161
+t1255487514
+s353
+i<Foundation/Foundation.h>
+i"DRList.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRListIterator.m
+c000000004AD5382200000000000001EF
+t1255487522
+s495
+i"DRListIterator.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRListNode.h
+c000000004AB83C7900000000000001C0
+t1253588089
+s448
+i<Foundation/Foundation.h>
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRListNode.m
+c000000004AB837F6000000000000015A
+t1253586934
+s346
+i"DRListNode.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRMath.h
+c000000004AB1670B00000000000015D6
+t1253140235
+s5590
+i<Foundation/Foundation.h>
+i<math.h>
+i"DRVector.h"
+i"DRMatrix.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRMath.m
+c000000004AD3ECD70000000000002E54
+t1255402711
+s11860
+i<string.h>
+i"DRMath.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRMatrix.h
+c000000004AB184F100000000000001D5
+t1253147889
+s469
+i<Foundation/Foundation.h>
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRMatrix.m
+c000000004AB1856300000000000001D5
+t1253148003
+s469
+i"DRMatrix.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRMesh.h
+c000000004AF0F644000000000000034B
+t1257305668
+s843
+i<Foundation/Foundation.h>
+i"DRList.h"
+i"DRRenderEffect.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRMesh.m
+c000000004AF0F6570000000000000311
+t1257305687
+s785
+i"DRMesh.h"
+i"DRListIterator.h"
+i"DRDataHolder.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRModel.h
+c000000004AEA52380000000000000186
+t1256870456
+s390
+i<Foundation/Foundation.h>
+i"DRList.h"
+i"DRFrame.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRModel.m
+c000000004AEA525D00000000000002C1
+t1256870493
+s705
+i"DRModel.h"
+i"DRListIterator.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRObject.h
+c000000004ACE8D6F0000000000000217
+t1255050607
+s535
+i<Foundation/Foundation.h>
+i"DRModel.h"
+i"DRFrame.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRObject.m
+c000000004ACE8DBB0000000000000208
+t1255050683
+s520
+i"DRObject.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRRenderEffect.h
+c000000004AF0E4FA0000000000000169
+t1257301242
+s361
+i<Foundation/Foundation.h>
+i"DRList.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRRenderEffect.m
+c000000004AF0E55700000000000001E0
+t1257301335
+s480
+i"DRRenderEffect.h"
+i"DRTexture.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRRenderManager.h
+c000000004AF222180000000000000671
+t1257382424
+s1649
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<Foundation/Foundation.h>
+i"DRFrame.h"
+i"DRStoryBoard.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRRenderManager.m
+c000000004AF229EA0000000000001AC9
+t1257384426
+s6857
+i"DRRenderManager.h"
+i"DRDataHolder.h"
+i"DRListIterator.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRResourceManager.h
+c000000004ACE9F160000000000000317
+t1255055126
+s791
+i<Foundation/Foundation.h>
+i"DRTexture.h"
+i"DRMesh.h"
+i"DRList.h"
+i"DRListIterator.h"
+i"DRDataHolder.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRResourceManager.m
+c000000004AF0E3530000000000000996
+t1257300819
+s2454
+i"DRResourceManager.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRStoryBoard.h
+c000000004AEF99FE00000000000002CC
+t1257216510
+s716
+i<Foundation/Foundation.h>
+i"DRKeyFrameAnimation.h"
+i"DRList.h"
+i"DRModel.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRStoryBoard.m
+c000000004AEFAAAF000000000000075F
+t1257220783
+s1887
+i"DRStoryBoard.h"
+i"DRListIterator.h"
+i"DRRenderManager.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRTexture.h
+c000000004AF0E47600000000000004FB
+t1257301110
+s1275
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRTexture.m
+c000000004AF0EA3D0000000000001694
+t1257302589
+s5780
+i"DRRenderManager.h"
+i"DRTexture.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRTimerManager.h
+c000000004AEA42CE00000000000001F1
+t1256866510
+s497
+i<Foundation/Foundation.h>
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRTimerManager.m
+c000000004AB06D22000000000000057E
+t1253076258
+s1406
+i"DRTimerManager.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRVector.h
+c000000004AEA34DE000000000000023E
+t1256862942
+s574
+i<Foundation/Foundation.h>
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/DRVector.m
+c000000004AB184790000000000000339
+t1253147769
+s825
+i"DRVector.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/EAGLView.h
+c000000004AB6B3330000000000000546
+t1253487411
+s1350
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"DRApplication.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/EAGLView.m
+c000000004BA03B290000000000001D28
+t1268792105
+s7464
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"EAGLView.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/GameManager.h
+c000000004BF359CB00000000000005F6
+t1274239435
+s1526
+i<Foundation/Foundation.h>
+i"DRTexture.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/GameManager.m
+c000000004C0DB5FC0000000000002A0A
+t1275966972
+s10762
+i"GameManager.h"
+i"Ball.h"
+i"DREngine.h"
+i"Button.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/MenuManager.h
+c000000004BBE9A130000000000000347
+t1270782483
+s839
+i<Foundation/Foundation.h>
+i"Button.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/MenuManager.m
+c000000004BBEAE650000000000000D4D
+t1270787685
+s3405
+i"MenuManager.h"
+i"DREngine.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/MyOpenALSupport.c
+c000000004AB06BBF0000000000000F9D
+t1253075903
+s3997
+i"MyOpenALSupport.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Classes/MyOpenALSupport.h
+c000000004AB06BC20000000000000277
+t1253075906
+s631
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox/ExtendedAudioFile.h>
+
+N/Users/robdelbianco/Downloads/DREngine/DREngine_Prefix.pch
+c000000004AAD6C6200000000000000B1
+t1252879458
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/robdelbianco/Downloads/DREngine/GOAhCool.h
+c000000004AF0D93C0000000000000162
+t1257298236
+s354
+i<Foundation/Foundation.h>
+i"ObjAhCool.h"
+i"StoryBoardAhCoolWalk.h"
+
+N/Users/robdelbianco/Downloads/DREngine/GOAhCool.m
+c000000004AF0D9430000000000000235
+t1257298243
+s565
+i"GOAhCool.h"
+
+N/Users/robdelbianco/Downloads/DREngine/GlassBall.png
+c000000004BA7021A0000000000001394
+t1269236250
+s5012
+
+N/Users/robdelbianco/Downloads/DREngine/HornD.h
+c000000004AD534FE00000000000CE6D8
+t1255486718
+s845528
+
+N/Users/robdelbianco/Downloads/DREngine/Loser_Btn.png
+c000000004BAAD1020000000000000805
+t1269485826
+s2053
+
+N/Users/robdelbianco/Downloads/DREngine/MainMenu_Btn.png
+c000000004BAAD0260000000000000917
+t1269485606
+s2327
+
+N/Users/robdelbianco/Downloads/DREngine/MainWindow.xib
+c000000004AAD6C6200000000000025AA
+t1252879458
+s9642
+
+N/Users/robdelbianco/Downloads/DREngine/MoonRock.png
+c000000004BA7033C0000000000002586
+t1269236540
+s9606
+
+N/Users/robdelbianco/Downloads/DREngine/ObjAhCool.h
+c000000004AF0E8DA0000000000000154
+t1257302234
+s340
+i<Foundation/Foundation.h>
+i"DRObject.h"
+
+N/Users/robdelbianco/Downloads/DREngine/ObjAhCool.m
+c000000004AF21BCD0000000000001FD5
+t1257380813
+s8149
+i"ObjAhCool.h"
+i"ObjAhCoolData.h"
+i"DRResourceManager.h"
+i"DRRenderManager.h"
+i"DRResourceManager.h"
+
+N/Users/robdelbianco/Downloads/DREngine/ObjAhCoolData.h
+c000000004AF0E8DA00000000000336C9
+t1257302234
+s210633
+
+N/Users/robdelbianco/Downloads/DREngine/ObjHorns.h
+c000000004AD53BD10000000000000151
+t1255488465
+s337
+i<Foundation/Foundation.h>
+i"DRObject.h"
+
+N/Users/robdelbianco/Downloads/DREngine/ObjHorns.m
+c000000004AF0EB7D0000000000000902
+t1257302909
+s2306
+i"ObjHorns.h"
+i"ObjHornsData.h"
+i"HornD.h"
+i"DRResourceManager.h"
+i"DRRenderManager.h"
+
+N/Users/robdelbianco/Downloads/DREngine/ObjHornsData.h
+c000000004AD67C03000000000000CB04
+t1255570435
+s51972
+
+N/Users/robdelbianco/Downloads/DREngine/PlayAgain_Btn.png
+c000000004BAAD00A000000000000099F
+t1269485578
+s2463
+
+N/Users/robdelbianco/Downloads/DREngine/Puzzle_Btn.png
+c000000004BAACF7000000000000007DB
+t1269485424
+s2011
+
+N/Users/robdelbianco/Downloads/DREngine/Puzzle_HUD.png
+c000000004BAAD27800000000000005DC
+t1269486200
+s1500
+
+N/Users/robdelbianco/Downloads/DREngine/Puzzle_SplitBall_HUD.png
+c000000004BAAD27800000000000005DC
+t1269486200
+s1500
+
+N/Users/robdelbianco/Downloads/DREngine/Reg10Ball.png
+c000000004BA962D40000000000000CAE
+t1269392084
+s3246
+
+N/Users/robdelbianco/Downloads/DREngine/Reg11Ball.png
+c000000004BA962C00000000000000C2B
+t1269392064
+s3115
+
+N/Users/robdelbianco/Downloads/DREngine/Reg12Ball.png
+c000000004BA962AE0000000000000CE9
+t1269392046
+s3305
+
+N/Users/robdelbianco/Downloads/DREngine/Reg13Ball.png
+c000000004BA962A00000000000000CEA
+t1269392032
+s3306
+
+N/Users/robdelbianco/Downloads/DREngine/Reg1Ball.png
+c000000004BA962420000000000000BDA
+t1269391938
+s3034
+
+N/Users/robdelbianco/Downloads/DREngine/Reg2Ball.png
+c000000004BA962920000000000000C79
+t1269392018
+s3193
+
+N/Users/robdelbianco/Downloads/DREngine/Reg3Ball.png
+c000000004BA9627E0000000000000C8E
+t1269391998
+s3214
+
+N/Users/robdelbianco/Downloads/DREngine/Reg4Ball.png
+c000000004BA9626E0000000000000BE3
+t1269391982
+s3043
+
+N/Users/robdelbianco/Downloads/DREngine/Reg5Ball.png
+c000000004BA963320000000000000C7A
+t1269392178
+s3194
+
+N/Users/robdelbianco/Downloads/DREngine/Reg6Ball.png
+c000000004BA963260000000000000CA9
+t1269392166
+s3241
+
+N/Users/robdelbianco/Downloads/DREngine/Reg7Ball.png
+c000000004BA9631A0000000000000C11
+t1269392154
+s3089
+
+N/Users/robdelbianco/Downloads/DREngine/Reg8Ball.png
+c000000004BA9630A0000000000000CA3
+t1269392138
+s3235
+
+N/Users/robdelbianco/Downloads/DREngine/Reg9Ball.png
+c000000004BA962FA0000000000000CBA
+t1269392122
+s3258
+
+N/Users/robdelbianco/Downloads/DREngine/RubberBall.png
+c000000004BA7042400000000000026F7
+t1269236772
+s9975
+
+N/Users/robdelbianco/Downloads/DREngine/SplitBall_Btn.png
+c000000004BAACFB00000000000000920
+t1269485488
+s2336
+
+N/Users/robdelbianco/Downloads/DREngine/StoryBoardAhCoolWalk.h
+c000000004AEFAB170000000000000166
+t1257220887
+s358
+i<Foundation/Foundation.h>
+i"DRStoryBoard.h"
+
+N/Users/robdelbianco/Downloads/DREngine/StoryBoardAhCoolWalk.m
+c000000004AEFAB1700000000000014FE
+t1257220887
+s5374
+i"StoryBoardAhCoolWalk.h"
+
+N/Users/robdelbianco/Downloads/DREngine/Time_Btn.png
+c000000004BAAD35C000000000000073E
+t1269486428
+s1854
+
+N/Users/robdelbianco/Downloads/DREngine/Time_HUD.png
+c000000004BAAD30A00000000000004E7
+t1269486346
+s1255
+
+N/Users/robdelbianco/Downloads/DREngine/Winner_Btn.png
+c000000004BAAD0E000000000000007BD
+t1269485792
+s1981
+
+N/Users/robdelbianco/Downloads/DREngine/WoodGrain.png
+c000000004B9EDE2800000000000090E0
+t1268702760
+s37088
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine.xcent
+t1273629442
+s321
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Ball.o
+t1275968542
+s29608
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Button.o
+t1273549918
+s15056
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRAL.o
+t1273549912
+s16296
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRApplication.o
+t1275964893
+s20600
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRDataHolder.o
+t1273549914
+s6564
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngine.LinkFileList
+c000000004BE8D44F00000000000011CD
+t1273549903
+s4557
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngine.o
+t1273549913
+s12800
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngineAppDelegate.o
+t1273549911
+s20268
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFloatDataHolder.o
+t1273549914
+s6660
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFrame.o
+t1273549913
+s42852
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRInputManager.o
+t1273549913
+s16728
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrame.o
+t1273549916
+s10708
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrameAnimation.o
+t1273549916
+s16960
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRList.o
+t1273549914
+s14604
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListIterator.o
+t1273549914
+s7408
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListNode.o
+t1273549914
+s8188
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMath.o
+t1273549912
+s29820
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMatrix.o
+t1273549914
+s7700
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMesh.o
+t1273549914
+s13788
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRModel.o
+t1273549914
+s10740
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRObject.o
+t1273549916
+s10548
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderEffect.o
+t1273549917
+s9444
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderManager.o
+t1273549912
+s27116
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRResourceManager.o
+t1273549914
+s15568
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRStoryBoard.o
+t1273549917
+s17132
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTexture.o
+t1273549912
+s19864
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTimerManager.o
+t1273549912
+s10960
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRVector.o
+t1273549913
+s8860
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/EAGLView.o
+t1273549911
+s37424
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GOAhCool.o
+t1273549917
+s10748
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GameManager.o
+t1275966975
+s31672
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MenuManager.o
+t1273549918
+s18308
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MyOpenALSupport.o
+t1273549911
+s11588
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjAhCool.o
+t1273549916
+s120056
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjHorns.o
+t1273549916
+s418516
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/StoryBoardAhCoolWalk.o
+t1273549917
+s13692
+
+N/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/main.o
+t1273549911
+s6464
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app
+t1275968542
+s1462
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app.dSYM
+t1275968542
+s102
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/AnnaBall1.png
+t1273549907
+s156555
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/AnnaBall2.png
+t1273549907
+s31024
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_Btn.png
+t1273549908
+s2143
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_HUD.png
+t1273549908
+s1588
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine
+t1275968542
+s516608
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/GlassBall.png
+t1273549906
+s3976
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Info.plist
+t1273549903
+s718
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Loser_Btn.png
+t1273549908
+s2023
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MainMenu_Btn.png
+t1273549908
+s2268
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MainWindow.nib
+t1273549908
+s1545
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MoonRock.png
+t1273549906
+s8337
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/PkgInfo
+t1273549903
+s8
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/PlayAgain_Btn.png
+t1273549908
+s2339
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_Btn.png
+t1273549908
+s1958
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_HUD.png
+t1275964540
+s1356
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_SplitBall_HUD.png
+t1273549908
+s1356
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg10Ball.png
+t1273549907
+s3404
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg11Ball.png
+t1273549907
+s3120
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg12Ball.png
+t1273549907
+s3449
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg13Ball.png
+t1273549907
+s3487
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg1Ball.png
+t1273549907
+s3073
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg2Ball.png
+t1273549907
+s3339
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg3Ball.png
+t1273549907
+s3387
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg4Ball.png
+t1273549907
+s3061
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg5Ball.png
+t1273549907
+s3336
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg6Ball.png
+t1273549907
+s3424
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg7Ball.png
+t1273549908
+s3204
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg8Ball.png
+t1273549907
+s3418
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg9Ball.png
+t1273549907
+s3425
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/ResourceRules.plist
+t1273549903
+s485
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/RubberBall.png
+t1273549906
+s6883
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/SplitBall_Btn.png
+t1273549908
+s2199
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_Btn.png
+t1273549908
+s1797
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_HUD.png
+t1273549908
+s1079
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Winner_Btn.png
+t1273549908
+s1960
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/WoodGrain.png
+t1273549905
+s26280
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/default.png
+t1273549905
+s41417
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/earth.png
+t1273549905
+s32018
+
+N/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision
+t1273629441
+s7170
+
+N/Users/robdelbianco/Downloads/DREngine/default.png
+c000000004A90478E00000000000086FA
+t1250969486
+s34554
+
+N/Users/robdelbianco/Downloads/DREngine/earth.png
+c000000004A93551F00000000000086E4
+t1251169567
+s34532
+
+N/Users/robdelbianco/Downloads/DREngine/main.m
+c000000004AAD6C620000000000000167
+t1252879458
+s359
+i<UIKit/UIKit.h>
+
+N/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/6FD53C1E-B468-4E1D-A51F-534773E3ADA4.mobileprovision
+c000000004BE8CA7F0000000000001C3A
+t1273547391
+s7226
+
+N/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/EC05D470-E78C-44B1-B0DA-38376EDDB7D6.mobileprovision
+c000000004BEA0A520000000000001C02
+t1273629266
+s7170
+
+N/var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-adgqbkxzsuvebafeuocjodapienk/DREngine_Prefix.pch.gch
+t1273549909
+s1253604
+
+N/var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-afjehbdnoauiafatxdnvdgzebftc/DREngine_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-gypjralecwpjlravhnoapdvzsdec/DREngine_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch.gch
+t1273549910
+s8208568
+
+NDREngine-Info.plist
+c000000004AB6D30900000000000003B4
+t1253495561
+s948
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297661341#297661341#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app
+s297661342.432581
+e297661342.830696
+r1
+xCodeSign
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app
+lSLF07#2@44"CodeSign build/Release-iphoneos/DREngine.app297661342#297661342#0(0"0(0#0#74"/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app4300911832#682"    cd /Users/robdelbianco/Downloads/DREngine    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Robert DelBianco (45H9C2DY84)" --resource-rules=/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/ResourceRules.plist --entitlements /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine.xcent /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Ball.o /Users/robdelbianco/Downloads/DREngine/Classes/Ball.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297661341.930273
+e297661342.294830
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Ball.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/Ball.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/robdelbianco/Downloads/DREngine/Classes/Ball.m297661341#297661342#0(0"0(0#0#53"/Users/robdelbianco/Downloads/DREngine/Classes/Ball.m4300911832#1783"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/Ball.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Ball.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Button.o /Users/robdelbianco/Downloads/DREngine/Classes/Button.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242718.332746
+e295242718.500643
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Button.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/Button.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/robdelbianco/Downloads/DREngine/Classes/Button.m295242718#295242718#0(0"0(0#0#55"/Users/robdelbianco/Downloads/DREngine/Classes/Button.m4300911832#1787"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/Button.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/Button.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRAL.o /Users/robdelbianco/Downloads/DREngine/Classes/DRAL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242711.953218
+e295242712.111551
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRAL.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRAL.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRAL.m295242711#295242712#0(0"0(0#0#53"/Users/robdelbianco/Downloads/DREngine/Classes/DRAL.m4300911832#1783"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRAL.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRAL.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRApplication.o /Users/robdelbianco/Downloads/DREngine/Classes/DRApplication.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297657693.369492
+e297657693.909517
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRApplication.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRApplication.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRApplication.m297657693#297657693#0(0"0(0#0#62"/Users/robdelbianco/Downloads/DREngine/Classes/DRApplication.m4300911832#1801"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRApplication.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRApplication.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRDataHolder.o /Users/robdelbianco/Downloads/DREngine/Classes/DRDataHolder.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242714.121889
+e295242714.177140
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRDataHolder.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRDataHolder.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRDataHolder.m295242714#295242714#0(0"0(0#0#61"/Users/robdelbianco/Downloads/DREngine/Classes/DRDataHolder.m4300911832#1799"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRDataHolder.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRDataHolder.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngine.o /Users/robdelbianco/Downloads/DREngine/Classes/DREngine.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242713.027171
+e295242713.143098
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngine.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DREngine.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DREngine.m295242713#295242713#0(0"0(0#0#57"/Users/robdelbianco/Downloads/DREngine/Classes/DREngine.m4300911832#1791"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DREngine.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngine.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngineAppDelegate.o /Users/robdelbianco/Downloads/DREngine/Classes/DREngineAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242711.107225
+e295242711.352403
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngineAppDelegate.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DREngineAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DREngineAppDelegate.m295242711#295242711#0(0"0(0#0#68"/Users/robdelbianco/Downloads/DREngine/Classes/DREngineAppDelegate.m4300911832#1813"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DREngineAppDelegate.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngineAppDelegate.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFloatDataHolder.o /Users/robdelbianco/Downloads/DREngine/Classes/DRFloatDataHolder.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242714.368375
+e295242714.427887
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFloatDataHolder.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRFloatDataHolder.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRFloatDataHolder.m295242714#295242714#0(0"0(0#0#66"/Users/robdelbianco/Downloads/DREngine/Classes/DRFloatDataHolder.m4300911832#1809"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRFloatDataHolder.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFloatDataHolder.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFrame.o /Users/robdelbianco/Downloads/DREngine/Classes/DRFrame.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242713.344910
+e295242713.836830
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFrame.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRFrame.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRFrame.m295242713#295242713#0(0"0(0#0#56"/Users/robdelbianco/Downloads/DREngine/Classes/DRFrame.m4300911832#1789"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRFrame.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRFrame.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRInputManager.o /Users/robdelbianco/Downloads/DREngine/Classes/DRInputManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242712.868015
+e295242713.027054
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRInputManager.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRInputManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRInputManager.m295242712#295242713#0(0"0(0#0#63"/Users/robdelbianco/Downloads/DREngine/Classes/DRInputManager.m4300911832#1803"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRInputManager.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRInputManager.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrame.o /Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrame.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242716.725430
+e295242716.804468
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrame.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrame.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrame.m295242716#295242716#0(0"0(0#0#59"/Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrame.m4300911832#1795"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrame.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrame.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrameAnimation.o /Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrameAnimation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242716.804595
+e295242716.952613
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrameAnimation.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrameAnimation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrameAnimation.m295242716#295242716#0(0"0(0#0#68"/Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrameAnimation.m4300911832#1813"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRKeyFrameAnimation.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRKeyFrameAnimation.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRList.o /Users/robdelbianco/Downloads/DREngine/Classes/DRList.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242714.240477
+e295242714.368246
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRList.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRList.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRList.m295242714#295242714#0(0"0(0#0#55"/Users/robdelbianco/Downloads/DREngine/Classes/DRList.m4300911832#1787"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRList.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRList.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListIterator.o /Users/robdelbianco/Downloads/DREngine/Classes/DRListIterator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242714.508491
+e295242714.570403
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListIterator.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRListIterator.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRListIterator.m295242714#295242714#0(0"0(0#0#63"/Users/robdelbianco/Downloads/DREngine/Classes/DRListIterator.m4300911832#1803"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRListIterator.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListIterator.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListNode.o /Users/robdelbianco/Downloads/DREngine/Classes/DRListNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242714.177400
+e295242714.240352
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListNode.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRListNode.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRListNode.m295242714#295242714#0(0"0(0#0#59"/Users/robdelbianco/Downloads/DREngine/Classes/DRListNode.m4300911832#1795"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRListNode.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRListNode.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMath.o /Users/robdelbianco/Downloads/DREngine/Classes/DRMath.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242712.327857
+e295242712.644873
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMath.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRMath.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRMath.m295242712#295242712#0(0"0(0#0#55"/Users/robdelbianco/Downloads/DREngine/Classes/DRMath.m4300911832#1787"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRMath.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMath.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMatrix.o /Users/robdelbianco/Downloads/DREngine/Classes/DRMatrix.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242713.944805
+e295242714.012082
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMatrix.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRMatrix.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRMatrix.m295242713#295242714#0(0"0(0#0#57"/Users/robdelbianco/Downloads/DREngine/Classes/DRMatrix.m4300911832#1791"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRMatrix.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMatrix.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMesh.o /Users/robdelbianco/Downloads/DREngine/Classes/DRMesh.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242714.012214
+e295242714.121763
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMesh.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRMesh.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRMesh.m295242714#295242714#0(0"0(0#0#55"/Users/robdelbianco/Downloads/DREngine/Classes/DRMesh.m4300911832#1787"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRMesh.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRMesh.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRModel.o /Users/robdelbianco/Downloads/DREngine/Classes/DRModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242714.428007
+e295242714.508367
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRModel.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRModel.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRModel.m295242714#295242714#0(0"0(0#0#56"/Users/robdelbianco/Downloads/DREngine/Classes/DRModel.m4300911832#1789"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRModel.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRModel.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRObject.o /Users/robdelbianco/Downloads/DREngine/Classes/DRObject.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242716.200472
+e295242716.296110
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRObject.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRObject.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRObject.m295242716#295242716#0(0"0(0#0#57"/Users/robdelbianco/Downloads/DREngine/Classes/DRObject.m4300911832#1791"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRObject.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRObject.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderEffect.o /Users/robdelbianco/Downloads/DREngine/Classes/DRRenderEffect.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242717.325884
+e295242717.400098
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderEffect.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRRenderEffect.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRRenderEffect.m295242717#295242717#0(0"0(0#0#63"/Users/robdelbianco/Downloads/DREngine/Classes/DRRenderEffect.m4300911832#1803"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRRenderEffect.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderEffect.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderManager.o /Users/robdelbianco/Downloads/DREngine/Classes/DRRenderManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242712.645123
+e295242712.867890
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderManager.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRRenderManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRRenderManager.m295242712#295242712#0(0"0(0#0#64"/Users/robdelbianco/Downloads/DREngine/Classes/DRRenderManager.m4300911832#1805"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRRenderManager.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRRenderManager.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRResourceManager.o /Users/robdelbianco/Downloads/DREngine/Classes/DRResourceManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242714.570542
+e295242714.707022
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRResourceManager.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRResourceManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRResourceManager.m295242714#295242714#0(0"0(0#0#66"/Users/robdelbianco/Downloads/DREngine/Classes/DRResourceManager.m4300911832#1809"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRResourceManager.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRResourceManager.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRStoryBoard.o /Users/robdelbianco/Downloads/DREngine/Classes/DRStoryBoard.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242716.952743
+e295242717.117069
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRStoryBoard.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRStoryBoard.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRStoryBoard.m295242716#295242717#0(0"0(0#0#61"/Users/robdelbianco/Downloads/DREngine/Classes/DRStoryBoard.m4300911832#1799"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRStoryBoard.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRStoryBoard.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTexture.o /Users/robdelbianco/Downloads/DREngine/Classes/DRTexture.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242712.111674
+e295242712.236560
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTexture.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRTexture.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRTexture.m295242712#295242712#0(0"0(0#0#58"/Users/robdelbianco/Downloads/DREngine/Classes/DRTexture.m4300911832#1793"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRTexture.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTexture.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTimerManager.o /Users/robdelbianco/Downloads/DREngine/Classes/DRTimerManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242712.236685
+e295242712.327729
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTimerManager.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRTimerManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRTimerManager.m295242712#295242712#0(0"0(0#0#63"/Users/robdelbianco/Downloads/DREngine/Classes/DRTimerManager.m4300911832#1803"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRTimerManager.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRTimerManager.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRVector.o /Users/robdelbianco/Downloads/DREngine/Classes/DRVector.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242713.836956
+e295242713.944672
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRVector.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/DRVector.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/robdelbianco/Downloads/DREngine/Classes/DRVector.m295242713#295242713#0(0"0(0#0#57"/Users/robdelbianco/Downloads/DREngine/Classes/DRVector.m4300911832#1791"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/DRVector.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DRVector.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/EAGLView.o /Users/robdelbianco/Downloads/DREngine/Classes/EAGLView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242711.352531
+e295242711.747673
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/EAGLView.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/EAGLView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/robdelbianco/Downloads/DREngine/Classes/EAGLView.m295242711#295242711#0(0"0(0#0#57"/Users/robdelbianco/Downloads/DREngine/Classes/EAGLView.m4300911832#1791"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/EAGLView.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/EAGLView.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GOAhCool.o /Users/robdelbianco/Downloads/DREngine/GOAhCool.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242717.238671
+e295242717.325753
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GOAhCool.o
+x/Users/robdelbianco/Downloads/DREngine/GOAhCool.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/robdelbianco/Downloads/DREngine/GOAhCool.m295242717#295242717#0(0"0(0#0#49"/Users/robdelbianco/Downloads/DREngine/GOAhCool.m4300911832#1783"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/GOAhCool.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GOAhCool.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GameManager.o /Users/robdelbianco/Downloads/DREngine/Classes/GameManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297659774.678312
+e297659775.086247
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GameManager.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/GameManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/robdelbianco/Downloads/DREngine/Classes/GameManager.m297659774#297659775#0(0"0(0#0#60"/Users/robdelbianco/Downloads/DREngine/Classes/GameManager.m4300911832#1797"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/GameManager.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/GameManager.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MenuManager.o /Users/robdelbianco/Downloads/DREngine/Classes/MenuManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242718.129750
+e295242718.332620
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MenuManager.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/MenuManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/robdelbianco/Downloads/DREngine/Classes/MenuManager.m295242718#295242718#0(0"0(0#0#60"/Users/robdelbianco/Downloads/DREngine/Classes/MenuManager.m4300911832#1797"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/MenuManager.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MenuManager.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MyOpenALSupport.o /Users/robdelbianco/Downloads/DREngine/Classes/MyOpenALSupport.c normal armv6 c com.apple.compilers.gcc.4_2
+s295242711.747798
+e295242711.953095
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MyOpenALSupport.o
+x/Users/robdelbianco/Downloads/DREngine/Classes/MyOpenALSupport.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/robdelbianco/Downloads/DREngine/Classes/MyOpenALSupport.c295242711#295242711#0(0"0(0#0#64"/Users/robdelbianco/Downloads/DREngine/Classes/MyOpenALSupport.c4300911832#1795"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-adgqbkxzsuvebafeuocjodapienk/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/Classes/MyOpenALSupport.c -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/MyOpenALSupport.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjAhCool.o /Users/robdelbianco/Downloads/DREngine/ObjAhCool.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242716.296245
+e295242716.725309
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjAhCool.o
+x/Users/robdelbianco/Downloads/DREngine/ObjAhCool.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/robdelbianco/Downloads/DREngine/ObjAhCool.m295242716#295242716#0(0"0(0#0#50"/Users/robdelbianco/Downloads/DREngine/ObjAhCool.m4300911832#1785"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/ObjAhCool.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjAhCool.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjHorns.o /Users/robdelbianco/Downloads/DREngine/ObjHorns.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242714.707143
+e295242716.200253
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjHorns.o
+x/Users/robdelbianco/Downloads/DREngine/ObjHorns.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/robdelbianco/Downloads/DREngine/ObjHorns.m295242714#295242716#0(0"0(0#0#49"/Users/robdelbianco/Downloads/DREngine/ObjHorns.m4300911832#1783"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/ObjHorns.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/ObjHorns.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/StoryBoardAhCoolWalk.o /Users/robdelbianco/Downloads/DREngine/StoryBoardAhCoolWalk.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242717.117188
+e295242717.238545
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/StoryBoardAhCoolWalk.o
+x/Users/robdelbianco/Downloads/DREngine/StoryBoardAhCoolWalk.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/robdelbianco/Downloads/DREngine/StoryBoardAhCoolWalk.m295242717#295242717#0(0"0(0#0#61"/Users/robdelbianco/Downloads/DREngine/StoryBoardAhCoolWalk.m4300911832#1807"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/StoryBoardAhCoolWalk.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/StoryBoardAhCoolWalk.o0#
+
+CCompileC build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/main.o /Users/robdelbianco/Downloads/DREngine/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242710.938559
+e295242711.107071
+r1
+xCompileC
+xbuild/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/main.o
+x/Users/robdelbianco/Downloads/DREngine/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/robdelbianco/Downloads/DREngine/main.m295242710#295242711#0(0"0(0#0#45"/Users/robdelbianco/Downloads/DREngine/main.m4300911832#1775"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -include /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch -c /Users/robdelbianco/Downloads/DREngine/main.m -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/robdelbianco/Downloads/DREngine/MainWindow.xib
+s295242703.668408
+e295242708.815894
+r1
+xCompileXIB
+x/Users/robdelbianco/Downloads/DREngine/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib295242703#295242708#0(0"0(0#0#53"/Users/robdelbianco/Downloads/DREngine/MainWindow.xib4300911832#471"    cd /Users/robdelbianco/Downloads/DREngine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MainWindow.nib /Users/robdelbianco/Downloads/DREngine/MainWindow.xib0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/AnnaBall1.png AnnaBall1.png
+s295242706.297490
+e295242707.102981
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/AnnaBall1.png
+xAnnaBall1.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/DREngine.app/AnnaBall1.png AnnaBall1.png295242706#295242707#0(0"0(0#0#52"/Users/robdelbianco/Downloads/DREngine/AnnaBall1.png4300911832#569"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/AnnaBall1.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/AnnaBall1.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/AnnaBall2.png AnnaBall2.png
+s295242707.103227
+e295242707.278693
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/AnnaBall2.png
+xAnnaBall2.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/DREngine.app/AnnaBall2.png AnnaBall2.png295242707#295242707#0(0"0(0#0#52"/Users/robdelbianco/Downloads/DREngine/AnnaBall2.png4300911832#569"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/AnnaBall2.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/AnnaBall2.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_Btn.png Arcade_Btn.png
+s295242708.158823
+e295242708.205090
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_Btn.png
+xArcade_Btn.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/DREngine.app/Arcade_Btn.png Arcade_Btn.png295242708#295242708#0(0"0(0#0#53"/Users/robdelbianco/Downloads/DREngine/Arcade_Btn.png4300911832#571"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Arcade_Btn.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_Btn.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_HUD.png Arcade_HUD.png
+s295242708.123289
+e295242708.158710
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_HUD.png
+xArcade_HUD.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/DREngine.app/Arcade_HUD.png Arcade_HUD.png295242708#295242708#0(0"0(0#0#53"/Users/robdelbianco/Downloads/DREngine/Arcade_HUD.png4300911832#571"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Arcade_HUD.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Arcade_HUD.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/GlassBall.png GlassBall.png
+s295242706.183874
+e295242706.297376
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/GlassBall.png
+xGlassBall.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/DREngine.app/GlassBall.png GlassBall.png295242706#295242706#0(0"0(0#0#52"/Users/robdelbianco/Downloads/DREngine/GlassBall.png4300911832#569"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/GlassBall.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/GlassBall.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Loser_Btn.png Loser_Btn.png
+s295242708.804673
+e295242708.846094
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Loser_Btn.png
+xLoser_Btn.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/DREngine.app/Loser_Btn.png Loser_Btn.png295242708#295242708#0(0"0(0#0#52"/Users/robdelbianco/Downloads/DREngine/Loser_Btn.png4300911832#569"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Loser_Btn.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Loser_Btn.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MainMenu_Btn.png MainMenu_Btn.png
+s295242708.016178
+e295242708.123158
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MainMenu_Btn.png
+xMainMenu_Btn.png
+lSLF07#2@81"CopyPNGFile build/Release-iphoneos/DREngine.app/MainMenu_Btn.png MainMenu_Btn.png295242708#295242708#0(0"0(0#0#55"/Users/robdelbianco/Downloads/DREngine/MainMenu_Btn.png4300911832#575"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/MainMenu_Btn.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MainMenu_Btn.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MoonRock.png MoonRock.png
+s295242706.028104
+e295242706.183755
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MoonRock.png
+xMoonRock.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/MoonRock.png MoonRock.png295242706#295242706#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/MoonRock.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/MoonRock.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/MoonRock.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/PlayAgain_Btn.png PlayAgain_Btn.png
+s295242708.850654
+e295242708.883794
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/PlayAgain_Btn.png
+xPlayAgain_Btn.png
+lSLF07#2@83"CopyPNGFile build/Release-iphoneos/DREngine.app/PlayAgain_Btn.png PlayAgain_Btn.png295242708#295242708#0(0"0(0#0#56"/Users/robdelbianco/Downloads/DREngine/PlayAgain_Btn.png4300911832#577"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/PlayAgain_Btn.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/PlayAgain_Btn.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_Btn.png Puzzle_Btn.png
+s295242708.205206
+e295242708.263719
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_Btn.png
+xPuzzle_Btn.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/DREngine.app/Puzzle_Btn.png Puzzle_Btn.png295242708#295242708#0(0"0(0#0#53"/Users/robdelbianco/Downloads/DREngine/Puzzle_Btn.png4300911832#571"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Puzzle_Btn.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_Btn.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_HUD.png Puzzle_HUD.png
+s297657339.404249
+e297657340.024466
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_HUD.png
+xPuzzle_HUD.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/DREngine.app/Puzzle_HUD.png Puzzle_HUD.png297657339#297657340#0(0"0(0#0#53"/Users/robdelbianco/Downloads/DREngine/Puzzle_HUD.png4300911832#571"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Puzzle_HUD.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_HUD.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_SplitBall_HUD.png Puzzle_SplitBall_HUD.png
+s295242708.816016
+e295242708.850512
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_SplitBall_HUD.png
+xPuzzle_SplitBall_HUD.png
+lSLF07#2@97"CopyPNGFile build/Release-iphoneos/DREngine.app/Puzzle_SplitBall_HUD.png Puzzle_SplitBall_HUD.png295242708#295242708#0(0"0(0#0#63"/Users/robdelbianco/Downloads/DREngine/Puzzle_SplitBall_HUD.png4300911832#591"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Puzzle_SplitBall_HUD.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Puzzle_SplitBall_HUD.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg10Ball.png Reg10Ball.png
+s295242707.625496
+e295242707.658329
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg10Ball.png
+xReg10Ball.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg10Ball.png Reg10Ball.png295242707#295242707#0(0"0(0#0#52"/Users/robdelbianco/Downloads/DREngine/Reg10Ball.png4300911832#569"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg10Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg10Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg11Ball.png Reg11Ball.png
+s295242707.594020
+e295242707.625383
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg11Ball.png
+xReg11Ball.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg11Ball.png Reg11Ball.png295242707#295242707#0(0"0(0#0#52"/Users/robdelbianco/Downloads/DREngine/Reg11Ball.png4300911832#569"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg11Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg11Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg12Ball.png Reg12Ball.png
+s295242707.478138
+e295242707.593881
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg12Ball.png
+xReg12Ball.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg12Ball.png Reg12Ball.png295242707#295242707#0(0"0(0#0#52"/Users/robdelbianco/Downloads/DREngine/Reg12Ball.png4300911832#569"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg12Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg12Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg13Ball.png Reg13Ball.png
+s295242707.960037
+e295242707.988357
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg13Ball.png
+xReg13Ball.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg13Ball.png Reg13Ball.png295242707#295242707#0(0"0(0#0#52"/Users/robdelbianco/Downloads/DREngine/Reg13Ball.png4300911832#569"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg13Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg13Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg1Ball.png Reg1Ball.png
+s295242707.408704
+e295242707.447240
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg1Ball.png
+xReg1Ball.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg1Ball.png Reg1Ball.png295242707#295242707#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Reg1Ball.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg1Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg1Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg2Ball.png Reg2Ball.png
+s295242707.750312
+e295242707.931090
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg2Ball.png
+xReg2Ball.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg2Ball.png Reg2Ball.png295242707#295242707#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Reg2Ball.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg2Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg2Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg3Ball.png Reg3Ball.png
+s295242707.278835
+e295242707.359872
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg3Ball.png
+xReg3Ball.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg3Ball.png Reg3Ball.png295242707#295242707#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Reg3Ball.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg3Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg3Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg4Ball.png Reg4Ball.png
+s295242707.359992
+e295242707.408572
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg4Ball.png
+xReg4Ball.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg4Ball.png Reg4Ball.png295242707#295242707#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Reg4Ball.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg4Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg4Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg5Ball.png Reg5Ball.png
+s295242707.447350
+e295242707.478027
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg5Ball.png
+xReg5Ball.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg5Ball.png Reg5Ball.png295242707#295242707#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Reg5Ball.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg5Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg5Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg6Ball.png Reg6Ball.png
+s295242707.658441
+e295242707.694512
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg6Ball.png
+xReg6Ball.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg6Ball.png Reg6Ball.png295242707#295242707#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Reg6Ball.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg6Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg6Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg7Ball.png Reg7Ball.png
+s295242707.988484
+e295242708.016048
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg7Ball.png
+xReg7Ball.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg7Ball.png Reg7Ball.png295242707#295242708#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Reg7Ball.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg7Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg7Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg8Ball.png Reg8Ball.png
+s295242707.931215
+e295242707.959917
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg8Ball.png
+xReg8Ball.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg8Ball.png Reg8Ball.png295242707#295242707#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Reg8Ball.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg8Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg8Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg9Ball.png Reg9Ball.png
+s295242707.694628
+e295242707.750195
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg9Ball.png
+xReg9Ball.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Reg9Ball.png Reg9Ball.png295242707#295242707#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Reg9Ball.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Reg9Ball.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Reg9Ball.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/RubberBall.png RubberBall.png
+s295242705.941669
+e295242706.027987
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/RubberBall.png
+xRubberBall.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/DREngine.app/RubberBall.png RubberBall.png295242705#295242706#0(0"0(0#0#53"/Users/robdelbianco/Downloads/DREngine/RubberBall.png4300911832#571"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/RubberBall.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/RubberBall.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/SplitBall_Btn.png SplitBall_Btn.png
+s295242708.263842
+e295242708.381890
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/SplitBall_Btn.png
+xSplitBall_Btn.png
+lSLF07#2@83"CopyPNGFile build/Release-iphoneos/DREngine.app/SplitBall_Btn.png SplitBall_Btn.png295242708#295242708#0(0"0(0#0#56"/Users/robdelbianco/Downloads/DREngine/SplitBall_Btn.png4300911832#577"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/SplitBall_Btn.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/SplitBall_Btn.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_Btn.png Time_Btn.png
+s295242708.878003
+e295242708.909390
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_Btn.png
+xTime_Btn.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Time_Btn.png Time_Btn.png295242708#295242708#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Time_Btn.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Time_Btn.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_Btn.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_HUD.png Time_HUD.png
+s295242708.382010
+e295242708.804507
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_HUD.png
+xTime_HUD.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/DREngine.app/Time_HUD.png Time_HUD.png295242708#295242708#0(0"0(0#0#51"/Users/robdelbianco/Downloads/DREngine/Time_HUD.png4300911832#567"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Time_HUD.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Time_HUD.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Winner_Btn.png Winner_Btn.png
+s295242708.846212
+e295242708.877897
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Winner_Btn.png
+xWinner_Btn.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/DREngine.app/Winner_Btn.png Winner_Btn.png295242708#295242708#0(0"0(0#0#53"/Users/robdelbianco/Downloads/DREngine/Winner_Btn.png4300911832#571"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/Winner_Btn.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Winner_Btn.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/WoodGrain.png WoodGrain.png
+s295242705.711504
+e295242705.941569
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/WoodGrain.png
+xWoodGrain.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/DREngine.app/WoodGrain.png WoodGrain.png295242705#295242705#0(0"0(0#0#52"/Users/robdelbianco/Downloads/DREngine/WoodGrain.png4300911832#569"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/WoodGrain.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/WoodGrain.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/default.png default.png
+s295242703.669227
+e295242705.340293
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/default.png
+xdefault.png
+lSLF07#2@71"CopyPNGFile build/Release-iphoneos/DREngine.app/default.png default.png295242703#295242705#0(0"0(0#0#50"/Users/robdelbianco/Downloads/DREngine/default.png4300911832#565"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/default.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/default.png0#
+
+CCopyPNGFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/earth.png earth.png
+s295242705.340581
+e295242705.711377
+r1
+xCopyPNGFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/earth.png
+xearth.png
+lSLF07#2@67"CopyPNGFile build/Release-iphoneos/DREngine.app/earth.png earth.png295242705#295242705#0(0"0(0#0#48"/Users/robdelbianco/Downloads/DREngine/earth.png4300911832#561"    cd /Users/robdelbianco/Downloads/DREngine    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/robdelbianco/Downloads/DREngine/earth.png /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/earth.png0#
+
+CCpResource build/Release-iphoneos/DREngine.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s295242703.500711
+e295242703.668290
+r1
+xCpResource
+xbuild/Release-iphoneos/DREngine.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist295242703#295242703#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist7810779306051726336#506"    cd /Users/robdelbianco/Downloads/DREngine    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app0#
+
+CCpResource build/Release-iphoneos/DREngine.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app.dSYM /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine
+s297661342.356431
+e297661342.428543
+r1
+xGenerateDSYMFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app.dSYM
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine
+lSLF07#2@102"GenerateDSYMFile build/Release-iphoneos/DREngine.app.dSYM build/Release-iphoneos/DREngine.app/DREngine297661342#297661342#0(0"0(0#0#83"/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine4300911832#369"    cd /Users/robdelbianco/Downloads/DREngine    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine -o /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app.dSYM0#
+
+CLd /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine normal armv6
+s297661342.294940
+e297661342.356294
+r1
+xLd
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine
+xnormal
+xarmv6
+lSLF07#2@88"Link /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine297661342#297661342#0(0"0(0#0#0"4300911832#949"    cd /Users/robdelbianco/Downloads/DREngine    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -filelist /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/Objects-normal/armv6/DREngine.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework AVFoundation -framework OpenAL -framework AudioToolbox -framework CoreGraphics -o /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/DREngine0#
+
+CProcessInfoPlistFile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Info.plist DREngine-Info.plist
+s295242703.538409
+e295242703.569904
+r1
+xProcessInfoPlistFile
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Info.plist
+xDREngine-Info.plist
+lSLF07#2@27"Process DREngine-Info.plist295242703#295242703#0(0"0(0#0#58"/Users/robdelbianco/Downloads/DREngine/DREngine-Info.plist4300911832#572"    cd /Users/robdelbianco/Downloads/DREngine    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DREngine-Info.plist -genpkginfo /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/ResourceRules.plist -o /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/Info.plist0#
+
+CProcessPCH /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-adgqbkxzsuvebafeuocjodapienk/DREngine_Prefix.pch.gch DREngine_Prefix.pch normal armv6 c com.apple.compilers.gcc.4_2
+s295242708.910682
+e295242710.072480
+r1
+xProcessPCH
+x/var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-adgqbkxzsuvebafeuocjodapienk/DREngine_Prefix.pch.gch
+xDREngine_Prefix.pch
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile DREngine_Prefix.pch295242708#295242710#0(0"0(0#0#58"/Users/robdelbianco/Downloads/DREngine/DREngine_Prefix.pch4300911832#1660"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -c /Users/robdelbianco/Downloads/DREngine/DREngine_Prefix.pch -o /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-adgqbkxzsuvebafeuocjodapienk/DREngine_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-afjehbdnoauiafatxdnvdgzebftc/DREngine_Prefix.pch.gch DREngine_Prefix.pch normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-gypjralecwpjlravhnoapdvzsdec/DREngine_Prefix.pch.gch DREngine_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch.gch DREngine_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295242708.909552
+e295242710.938259
+r1
+xProcessPCH
+x/var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch.gch
+xDREngine_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile DREngine_Prefix.pch295242708#295242710#0(0"0(0#0#58"/Users/robdelbianco/Downloads/DREngine/DREngine_Prefix.pch4300911832#1670"    cd /Users/robdelbianco/Downloads/DREngine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -miphoneos-version-min=3.1.3 -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-generated-files.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-own-target-headers.hmap -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-all-target-headers.hmap -iquote /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine-project-headers.hmap -F/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos -I/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/include -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources/armv6 -I/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DerivedSources -c /Users/robdelbianco/Downloads/DREngine/DREngine_Prefix.pch -o /var/folders/2p/2p67e1ZGEHOUJQlncTdbTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DREngine_Prefix-hbwydduwmhakitdaliqwyoivaztv/DREngine_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/6FD53C1E-B468-4E1D-A51F-534773E3ADA4.mobileprovision" /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision
+s295242719.315449
+e295242719.338396
+r1
+xProcessProductPackaging
+x/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/6FD53C1E-B468-4E1D-A51F-534773E3ADA4.mobileprovision
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/6FD53C1E-B468-4E1D-A51F-534773E3ADA4.mobileprovision" build/Release-iphoneos/DREngine.app/embedded.mobileprovision295242719#295242719#0(0"0(0#0#99"/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision4300911832#433"    cd /Users/robdelbianco/Downloads/DREngine    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/6FD53C1E-B468-4E1D-A51F-534773E3ADA4.mobileprovision" -o /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/EC05D470-E78C-44B1-B0DA-38376EDDB7D6.mobileprovision" /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision
+s295322241.895840
+e295322241.935175
+r1
+xProcessProductPackaging
+x/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/EC05D470-E78C-44B1-B0DA-38376EDDB7D6.mobileprovision
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/EC05D470-E78C-44B1-B0DA-38376EDDB7D6.mobileprovision" build/Release-iphoneos/DREngine.app/embedded.mobileprovision295322241#295322241#0(0"0(0#0#99"/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision4300911832#433"    cd /Users/robdelbianco/Downloads/DREngine    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/robdelbianco/Library/MobileDevice/Provisioning Profiles/EC05D470-E78C-44B1-B0DA-38376EDDB7D6.mobileprovision" -o /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine.xcent
+s295322242.025531
+e295322242.074122
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine.xcent
+lSLF07#2@182"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/DREngine.build/Release-iphoneos/DREngine.build/DREngine.xcent295322242#295322242#0(0"0(0#0#106"/Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine.xcent4300911832#439"    cd /Users/robdelbianco/Downloads/DREngine    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/robdelbianco/Downloads/DREngine/build/DREngine.build/Release-iphoneos/DREngine.build/DREngine.xcent0#
+
+CTouch /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app
+s297661342.428772
+e297661342.432382
+r1
+xTouch
+x/Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app
+lSLF07#2@80"Touch /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app297661342#297661342#0(0"0(0#0#0"4300911832#267"    cd /Users/robdelbianco/Downloads/DREngine    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/robdelbianco/Downloads/DREngine/build/Release-iphoneos/DREngine.app0#
+
